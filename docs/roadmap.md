@@ -71,6 +71,10 @@ If a roadmap item is a stub, **consider** opening a [GitHub issue](https://githu
   - Discussion: [foam#46](https://github.com/foambubble/foam/issues/46)
 - [[Migrating from OneNote (stub)]]
   - Discussion: [foam#151](https://github.com/foambubble/foam/issues/151)
+  
+- [[using-without-git-or-github]] (stub)
+  - Discussion: [foam#165](https://github.com/foambubble/foam/issues/165)
+  
 - _Migration from other tools..._
 ### integration
 - _Integrations to third party tools_...
